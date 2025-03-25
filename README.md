@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yoken-do
-- 📫 How to reach me? Just write to me in Telegram
+- 📫 How to reach me? Just write to me in Discord
 - ⚡ Fun fact: I want to build my dataset
 
 <!---
