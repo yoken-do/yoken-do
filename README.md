@@ -1,6 +1,6 @@
 👋 Hi, I’m @yoken-do
 
-📫 How to reach me? Just write to me in DiscordAdd commentMore actions
+📫 How to reach me? Just write to me in Discord or XMPP
 
 ⚡ Fun fact: I want to build my dataset
 
